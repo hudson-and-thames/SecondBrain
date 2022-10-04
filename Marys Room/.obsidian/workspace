@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "a3acb0d164882181",
+    "type": "split",
+    "children": [
+      {
+        "id": "08b71ec80488c6c9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Marys Room.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e72a80af8441b239",
+    "type": "split",
+    "children": [
+      {
+        "id": "2acb8e21bec4227d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f70d4fc3ee53cb3f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6ed2701264124ab6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b47cfd17b6a57784",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "05c028473331f1ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2088da7a12325c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ba6ab9bb016c43d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Marys Room.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1458351bbad67b2c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Marys Room.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5aec5f80e0329d7a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bac98eec75528c8b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "dbfdee0a782704be",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Marys Room.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [
+                    {
+                      "query": "tag:#molecule",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14701138
+                      }
+                    },
+                    {
+                      "query": "tag:#topic",
+                      "color": {
+                        "a": 1,
+                        "rgb": 15662848
+                      }
+                    },
+                    {
+                      "query": "tag:#atom",
+                      "color": {
+                        "a": 1,
+                        "rgb": 49151
+                      }
+                    },
+                    {
+                      "query": "tag:#source",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16777215
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7132754626224446,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "b0def03ec4ddcc7a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "29fbbe9d4a8a12fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b2816889152158a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Marys Room.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 767.5
+  },
+  "active": "08b71ec80488c6c9",
+  "lastOpenFiles": [
+    "Marys Setup.md",
+    "Tips.md",
+    "Team Conventions.md",
+    "Marys Room.md",
+    "Idea Debt and Refactoring.md",
+    "🧬Molecules/Hive mind.md",
+    "🧬Molecules/Conditional MLA.md",
+    "⚛️ Atoms/Bias-Variance Trade-off.md",
+    "⚛️ Atoms/Web Design.md",
+    "⚛️ Atoms/UX design.md"
+  ]
+}

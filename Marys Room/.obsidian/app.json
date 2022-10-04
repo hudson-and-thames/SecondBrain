@@ -1,0 +1,14 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "userIgnoreFilters": [
+    "_attachments/",
+    "_scripts/",
+    "_templates/",
+    "Tables/"
+  ],
+  "attachmentFolderPath": "_attachments",
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "spellcheck": true
+}

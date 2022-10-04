@@ -1,0 +1,11 @@
+Citation:
+Creator :: Dennis
+Type: #source #academic 
+Topics: [[Dynamic Ensemble Selection]]
+Date: 2022-07-07 11:10
+
+[https://doi.org/10.1016/j.patcog.2014.05.003](https://doi.org/10.1016/j.patcog.2014.05.003 "Persistent link using digital object identifier")
+
+# Abstract
+---
+This work presents a literature review of [multiple classifier systems](https://www.sciencedirect.com/topics/computer-science/multiple-classifier-systems "Learn more about multiple classifier systems from ScienceDirect's AI-generated Topic Pages") based on the dynamic selection of [classifiers](https://www.sciencedirect.com/topics/computer-science/classification-machine-learning "Learn more about classifiers from ScienceDirect's AI-generated Topic Pages"). First, it briefly reviews some basic concepts and definitions related to such a [classification](https://www.sciencedirect.com/topics/computer-science/classification "Learn more about classification from ScienceDirect's AI-generated Topic Pages") approach and then it presents the state of the art organized according to a proposed taxonomy. In addition, a two-step analysis is applied to the results of the main methods reported in the literature, considering different classification problems. The first step is based on statistical analyses of the significance of these results. The idea is to figure out the problems for which a significant contribution can be observed in terms of classification performance by using a dynamic selection approach. The second step, based on data complexity measures, is used to investigate whether or not a relation exists between the possible performance contribution and the complexity of the classification problem. From this comprehensive study, we observed that, for some classification problems, the performance contribution of the dynamic selection approach is statistically significant when compared to that of a single-based classifier. In addition, we found evidence of a relation between the observed performance contribution and the complexity of the classification problem. These observations allow us to suggest, from the classification problem complexity, that further work should be done to predict whether or not to use a dynamic selection approach.

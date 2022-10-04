@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#molecule",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag:#atom",
+      "color": {
+        "a": 1,
+        "rgb": 1565437
+      }
+    },
+    {
+      "query": "tag:#topic",
+      "color": {
+        "a": 1,
+        "rgb": 16774912
+      }
+    },
+    {
+      "query": "tag:#source",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "tag:#intro",
+      "color": {
+        "a": 1,
+        "rgb": 2275621
+      }
+    },
+    {
+      "query": "tag:#question",
+      "color": {
+        "a": 1,
+        "rgb": 16449791
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -1,
+  "nodeSizeMultiplier": 1.00842696629213,
+  "lineSizeMultiplier": 0.8875,
+  "collapse-forces": false,
+  "centerStrength": 0.353932584269663,
+  "repelStrength": 17.9761904761905,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.8957713913860742,
+  "close": true
+}
