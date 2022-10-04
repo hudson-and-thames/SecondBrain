@@ -5,10 +5,12 @@
   </br>
 </div>
 
-We need to set you up so that we are all in sync. The following needs to be done :
-1. Navigate to Settings -> Plugin Options -> Sync.
-2. Change the Device name to your name.
-3. Check that every setting under *Vault Configuration sync* is toggled on.
+We need to set you up so that we are all in sync. The following needs to be done:
+1. [Download](https://obsidian.md/download) and install Obsidian
+2. Clone this repo to your local machine and set the branch to develop. (All Pull Requests must be to develop, only the bran maintainer may push to master.)
+3. Open Obsidian and Open folder as vault, head over to the Marys Room folder inside the SecondBrain repo and select it. 
+4. Accept all the plugins and community plugins that we have added. 
+5. Head over to the Marys Room node and you can explore the system from there.
 
 After going through the setup note, please check out the Team Conventions and Tips.
 
