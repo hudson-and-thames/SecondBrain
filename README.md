@@ -50,11 +50,10 @@ Therefore you **only** link the subtopic or closets topic but also reference or 
 Tables are way to see content that you are tagged, need to discuss or see recent activity. Tables use `dataview` which is similar to SQL. If would like to make your own table please check the [dataview](https://blacksmithgu.github.io/obsidian-dataview/) website to learn how to use it. If open up Obsidian, please check the [[Discussion]] and [[Tagged Content]] tables to see if someone needs you to look at something. You can explore the other tables as well to see interesting ideas or track progress.   
 
 ## Problems
-If you encounter any problems with the initial setup, please tag Michael in a discussion Michael in a discussion.
+If you encounter any problems with the initial setup, please tag Michael in MS Teams.
 
-Alternatively if there is something wrong, it probably has to do with the syncing. Please make sure to check the following.
+Alternatively if there is something wrong, please make sure to check the following.
 
-- Your Sync plugin is turned on and all the options under the Sync plugins are toggled on.
 - Make sure the following setting are correct.
 	Core Plugins installed
 	- Sync
